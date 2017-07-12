@@ -1,0 +1,55 @@
+body{
+    background-image: url(../images/background.jpeg);
+    background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+.level{
+  border-style: groove;
+  border-color: black;
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+.name, .move{
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+h1{
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.instructions{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  height: 150px;
+  color: white;
+  overflow: scroll;
+}
+.iavatar{
+  text-align: right;
+}
+.panel{
+  overflow: scroll;
+  background-color: gray;
+}
+.input{
+  background-color: #eee;
+}
+.jumbotron{
+  background-color: transparent;
+  color: white;
+  font-family: 'Teko', sans-serif;
+}
+.d{
+  float:right;
+  padding-left: 300px;
+  padding-bottom: 15px;
+}
+#ice{
+  float: right;
+}
